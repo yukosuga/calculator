@@ -1,9 +1,10 @@
 // Your code here!
 class Calculator {
-constructor(PI, E) {
-    this.PI = PI;
-    this.E = E;    
-}
+constructor() {
+    this.PI = Math.PI;
+    this.E = Math.E;   
+
+    };
 
 ratio(x, y, width) {
 return y * width / x;
