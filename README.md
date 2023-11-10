@@ -2,6 +2,8 @@
 
 ## Welcome to my JavaScript project repository 👋
 
+### 🔢 Calculator 🧮
+
 This repository is a testament to my dedication and passion for JavaScript development.  
 Inside, you'll find a fully functional JavaScript calculator, the result of my work and love for coding.
 
